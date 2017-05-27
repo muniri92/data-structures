@@ -1,0 +1,25 @@
+appdirs==1.4.3
+appnope==0.1.0
+coverage==4.4.1
+-e git+https://github.com/muniri92/data-structures.git@79ab69be9eda5eb3a58dd3a0bc2a448d5a0aa048#egg=data_structures
+decorator==4.0.11
+ipython==6.0.0
+ipython-genutils==0.2.0
+jedi==0.10.2
+packaging==16.8
+pexpect==4.2.1
+pickleshare==0.7.4
+pluggy==0.4.0
+prompt-toolkit==1.0.14
+ptyprocess==0.5.1
+py==1.4.33
+Pygments==2.2.0
+pyparsing==2.2.0
+pytest==3.1.0
+pytest-cov==2.5.1
+simplegeneric==0.8.1
+six==1.10.0
+tox==2.7.0
+traitlets==4.3.2
+virtualenv==15.1.0
+wcwidth==0.1.7
